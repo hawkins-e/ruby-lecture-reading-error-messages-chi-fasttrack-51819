@@ -1,3 +1,4 @@
-"hello world"
+def "hello world"
 
-name = hello_world
+ puts "hello_world"
+end 
